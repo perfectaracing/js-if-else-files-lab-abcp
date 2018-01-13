@@ -13,7 +13,8 @@ if (name === "Susan") {
 } else {
   console.log("Expected the name to be Susan")
 }
-nodejs index.js ;
+nodejs index.js;
+
 
 
 
