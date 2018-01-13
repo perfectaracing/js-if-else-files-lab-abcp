@@ -8,4 +8,5 @@ module.exports = { name, height
 if (name === "Susan") {
   console.log("The name is correct")
 }
+nodejs index.js 
 
